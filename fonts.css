@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "Open Sans";
+    src: url("polices/OpenSans-Regular.woff") format("woff"),
+         url("polices/OpenSans-Bold.woff") format("woff"),
+         url("polices/OpenSans-Bold.woff2") format("woff2"),
+         url("polices/OpenSans-Regular.woff2") format("woff2");
+}
+@font-face{
+    font-family: "poppins";
+    src: 
+         url("polices/poppins-regular.woff") format("woff"),
+         url("polices/poppins-bold.woff2") format("woff2"),
+         url("polices/poppins-italic.woff2") format("woff2"),
+         url("polices/poppins-regular.woff2") format("woff2");
+}
+@font-face{
+    font-family: "volkhov";
+    src: url("polices/volkhov-bold.woff") format("woff"),
+         url("polices/volkhov-italic.woff") format("woff"),
+         url("polices/volkhov-regular.woff") format("woff"),
+         url("polices/volkhov-bold.woff2") format("woff2"),
+         url("polices/volkhov-italic.woff2") format("woff2"),
+         url("polices/volkhov-regular.woff2") format("woff2");
+}
